@@ -1,0 +1,105 @@
+body{
+    margin: 0 auto;
+    color: #828282;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+
+}
+
+span{
+    color: #3F3D56;
+}
+
+#name{
+    color: #828282;
+    font-weight: 700;
+}
+
+strong{
+    color: #3F3D56;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+
+h1{
+    color: #3F3D56;
+    font-family: Dosis;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-family: Dosis;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+p {
+    text-justify: auto;
+    text-align: center;
+    font-family: "Open Sans"
+    color: #828282;   
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 146.667% */
+}
+
+.main{
+    width: 540px;
+    margin: 16px auto 32px;
+    margin-top: 64px;
+}
+
+.main p {
+    margin-bottom: 16px;
+}
+
+#line{
+    width: 391px;
+    height: 0px;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 16px;    
+  }
+
+
+footer{
+    
+    color: #3F3D56;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 147.682%; /* 22.152px */
+    }
+
+footer a + a {
+    margin-left: 28px;
+}
+
+a{
+    text-decoration:none;
+}
+
+#wave {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+
+
